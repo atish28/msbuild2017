@@ -1,0 +1,106 @@
+{
+    "dir": "ltr",
+    "lang": "pl",
+    "name": "Knowzy",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://microsoftknowzywebapp20170622044557.azurewebsites.net/",
+    "short_name": "Knowzy",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/favicon.ico",
+            "sizes": "32x32"
+        },
+        {
+            "src": "/images/c8d6f257-d0d1-069f-30c0-62711792a015.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8f395aa7-6c55-6d57-fa67-aa33bb7bbd1e.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e030c610-cf24-4358-122e-27fd1744de88.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/08b23fd7-f7b8-6a68-6ec7-02e35ed5e5cc.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9fc19cc5-1a42-e350-1f41-153c55085b38.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/68691bc0-8404-1888-245b-b03967af411a.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7ecaad13-a16d-ee2c-3294-6b00f8692ebb.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0f952b7e-d50a-e672-1cb6-cb6d3486ba42.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e0202af3-8dd7-f959-0fae-feda25d813e8.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ed337e46-00bd-8367-10cd-c3dd7c75ed13.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/38a46363-1f7a-596d-67c6-84c594b2e40e.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f5809862-04ec-e3d5-8a80-dc273edc22e6.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/81564408-117a-a177-c88f-1cbebf7f588a.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a4d653b3-18c2-1c22-2749-e225dc9382bc.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/25ae273a-5943-f1fd-1f17-956407be0b6b.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a3bbd5be-50dd-5ca4-654f-2a98affa8601.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/1fe1e6c3-1873-649d-f546-dfc141b91c45.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
